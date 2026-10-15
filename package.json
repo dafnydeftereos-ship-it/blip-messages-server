@@ -1,0 +1,11 @@
+{
+  "name": "blip-messages-server",
+  "version": "1.0.0",
+  "main": "blip-messages-server.js",
+  "scripts": {
+    "start": "node blip-messages-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
